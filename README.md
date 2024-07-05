@@ -1,5 +1,5 @@
-#CS 4750 Mobile Development Application
-##Meditation App "Tarsier Wellness"
+# CS 4750 Mobile Development Application
+## Meditation App "Tarsier Wellness"
 
 Welcome to the Meditation App! This offline application is designed to help users improve their mental well-being through guided meditations, breathing exercises, and mindfulness practices. Developed using Dart and Flutter, this app provides a simple and user-friendly interface to ensure a relaxing experience.
 
